@@ -1,0 +1,1 @@
+call  java -jar .\target\zal_64026.jar
